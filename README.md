@@ -1,6 +1,6 @@
 # Universal Humanoid Robot Pose Learning from Internet Human Videos
-<p style="font-weight: bold;">International Conference on Humanoid Robots 2025, <span style="color: red;">Oral Presentation</span></p>
-<p align="left">
+International Conference on Humanoid Robots 2025, **Oral Presentation**
+<!-- <p align="left">
     <a href="https://img.shields.io/badge/PRs-Welcome-red">
         <img src="https://img.shields.io/badge/PRs-Welcome-red">
     </a>
@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/github/last-commit/sihengz02/UH-1?color=green">
     </a>
     <br/>
-</p>
+</p> -->
 <div align="center">
 <img src="./assets/teaser.png" ></img> 
 </div>
