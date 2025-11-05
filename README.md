@@ -128,11 +128,16 @@ For the data collection pipeline, including **Video Clip Extraction**, **3D Huma
 If you find our work helpful, please cite us:
 
 ```bibtex
-@article{mao2024learning,
-  title={Learning from Massive Human Videos for Universal Humanoid Pose Control},
-  author={Mao, Jiageng and Zhao, Siheng and Song, Siqi and Shi, Tianheng and Ye, Junjie and Zhang, Mingtong and Geng, Haoran and Malik, Jitendra and Guizilini, Vitor and Wang, Yue},
-  journal={arXiv preprint arXiv:2412.14172},
-  year={2024}
+@INPROCEEDINGS{11203143,
+      author={Mao, Jiageng and Zhao, Siheng and Song, Siqi and Hong, Chuye and Shi, Tianheng and Ye, Junjie and Zhang, Mingtong and Geng, Haoran and Malik, Jitendra and Guizilini, Vitor and Wang, Yue},
+      booktitle={2025 IEEE-RAS 24th International Conference on Humanoid Robots (Humanoids)}, 
+      title={Universal Humanoid Robot Pose Learning from Internet Human Videos}, 
+      year={2025},
+      volume={},
+      number={},
+      pages={1-8},
+      keywords={Training;Adaptation models;Semantics;Pipelines;Humanoid robots;Reinforcement learning;Internet;Reliability;Data mining;Videos},
+      doi={10.1109/Humanoids65713.2025.11203143}}
 }
 ```
 
