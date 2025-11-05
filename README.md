@@ -1,5 +1,5 @@
-# Learning from Massive Human Videos for Universal Humanoid Pose Control
-
+# Universal Humanoid Robot Pose Learning from Internet Human Videos
+<p style="font-weight: bold;">International Conference on Humanoid Robots 2025, <span style="color: red;">Oral Presentation</span></p>
 <p align="left">
     <a href="https://img.shields.io/badge/PRs-Welcome-red">
         <img src="https://img.shields.io/badge/PRs-Welcome-red">
@@ -16,7 +16,8 @@
     <a href="https://usc-gvl.github.io/UH-1/">🌐 Homepage</a> | <a href="https://huggingface.co/datasets/USC-GVL/Humanoid-X">⛁ Dataset</a> | <a href="https://huggingface.co/USC-GVL/UH-1">🤗 Models</a> | <a href="https://arxiv.org/abs/2412.14172">📑 Paper</a> | <a href="https://github.com/sihengz02/UH-1">💻 Code</a>
 </h5>
 
-Code for paper [Learning from Massive Human Videos for Universal Humanoid Pose Control](https://arxiv.org/abs/2412.14172). Please refer to our [project page](https://usc-gvl.github.io/UH-1/) for more demonstrations and up-to-date related resources. 
+Code for paper [Universal Humanoid Robot Pose Learning from Internet Human Videos](https://arxiv.org/abs/2412.14172). \
+Please refer to our [project page](https://usc-gvl.github.io/UH-1/) for more demonstrations and up-to-date related resources. 
 
 
 
